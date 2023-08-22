@@ -9,7 +9,7 @@ You'll also learn about starting and stopping your codespace, which I'm also goi
 **When you're done for the day ...**
 
 - Go to [github.com/codespaces](https://github.com/codespaces)
-- Click on the three dots in the row for "My class codespace"
+- Click on the three dots in the row for "My class codespace" > Nuevo commit antes de realizar esta acción
 - Click "Stop codespace"
 
 **Returning to work**
